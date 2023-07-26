@@ -8,7 +8,7 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- <img src="https://komarev.com/ghpvc/?rithika2152&style=flat-square&color=blue" alt=""/>
+ <img src="https://www.linkedin.com/in/glrithika4112/?rithika2152&style=flat-square&color=blue" alt=""/>
 
  A passionate Front End Developer with a love for crafting beautiful and user-friendly web experiences. I specialize in HTML, CSS, and JavaScript, and I'm always eager to learn and explore new front-end technologies.
 I am a tech enthusiast who believes in the power of the web to transform businesses and improve lives. With a keen eye for detail and a knack for problem-solving, I strive to create visually appealing and intuitive interfaces that enhance user interactions.
