@@ -1,5 +1,6 @@
 ### Hi there 👋 , I am G L Rithika
-Hello there! 👋 I'm G L Rithika, a passionate Front End Developer with a love for crafting beautiful and user-friendly web experiences. I specialize in HTML, CSS, and JavaScript, and I'm always eager to learn and explore new front-end technologies.
+
+ a passionate Front End Developer with a love for crafting beautiful and user-friendly web experiences. I specialize in HTML, CSS, and JavaScript, and I'm always eager to learn and explore new front-end technologies.
 
 <!--
 **rithika2152/rithika2152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
