@@ -3,6 +3,7 @@
 <div id="header" align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="500"/>
 </div>
+https://img.shields.io/badge/LinkedIn-blue
 
  A passionate Front End Developer with a love for crafting beautiful and user-friendly web experiences. I specialize in HTML, CSS, and JavaScript, and I'm always eager to learn and explore new front-end technologies.
 I am a tech enthusiast who believes in the power of the web to transform businesses and improve lives. With a keen eye for detail and a knack for problem-solving, I strive to create visually appealing and intuitive interfaces that enhance user interactions.
