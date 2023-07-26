@@ -1,6 +1,10 @@
 ### Hi there 👋 , I am G L Rithika
 
  A passionate Front End Developer with a love for crafting beautiful and user-friendly web experiences. I specialize in HTML, CSS, and JavaScript, and I'm always eager to learn and explore new front-end technologies.
+I am a tech enthusiast who believes in the power of the web to transform businesses and improve lives. With a keen eye for detail and a knack for problem-solving, I strive to create visually appealing and intuitive interfaces that enhance user interactions.
+
+As a front end developer, I am dedicated to staying up-to-date with the latest trends and best practices in web development. I enjoy collaborating with cross-functional teams to bring ideas to life and deliver high-quality projects that exceed expectations.
+
 
 <!--
 **rithika2152/rithika2152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
