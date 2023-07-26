@@ -6,6 +6,12 @@ I am a tech enthusiast who believes in the power of the web to transform busines
 As a front end developer, I am dedicated to staying up-to-date with the latest trends and best practices in web development. I enjoy collaborating with cross-functional teams to bring ideas to life and deliver high-quality projects that exceed expectations.
 
 
+
+### Languages Used:
+<div id="header" align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="100"/>
+</div>
+
 <!--
 **rithika2152/rithika2152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
