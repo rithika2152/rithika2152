@@ -24,8 +24,7 @@ As a front end developer, I am dedicated to staying up-to-date with the latest t
 ----
 ### :fire: My Stats :
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rithika2152)](https://git.io/streak-stats)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?rithika2152)](https://github.com/rithika2152/github-readme-stats)
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?rithika2152&layout=compact&theme=vision-friendly-dark)](https://github.com/rithika2152/github-readme-stats)
   
   
 
