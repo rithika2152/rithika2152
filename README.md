@@ -19,8 +19,7 @@ As a front end developer, I am dedicated to staying up-to-date with the latest t
   <img src="https://w7.pngwing.com/pngs/780/811/png-transparent-logo-python-logos-and-brands-icon.png"  title="Python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-c.png"  title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"  title="C++" alt="C++" width="40" height="40"/>&nbsp;
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png"  title="VSCODE" alt="vscode" width="40" height="40"/>&nbsp;
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png"  title="VSCODE" alt="vscode" width="40" height="40"/>&nbsp;
    <img src="https://w7.pngwing.com/pngs/726/388/png-transparent-code-blocks-computer-icons-computer-programming-block-icon-angle-rectangle-computer-program-thumbnail.png"  title="codeblocks" alt="codeblocks" width="40" height="40"/>&nbsp;
      
   
