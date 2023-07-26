@@ -1,7 +1,7 @@
 ### Hi there 👋 , I am G L Rithika
 
 <div id="header" align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="100"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="500"/>
 </div>
 
  A passionate Front End Developer with a love for crafting beautiful and user-friendly web experiences. I specialize in HTML, CSS, and JavaScript, and I'm always eager to learn and explore new front-end technologies.
