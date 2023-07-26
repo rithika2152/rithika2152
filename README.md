@@ -1,5 +1,9 @@
 ### Hi there 👋 , I am G L Rithika
 
+<div id="header" align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCX0NYeWd4-OHe9g8JpDZ96FOYMjeBhF87uQ&usqp=CAU" width="100"/>
+</div>
+
  A passionate Front End Developer with a love for crafting beautiful and user-friendly web experiences. I specialize in HTML, CSS, and JavaScript, and I'm always eager to learn and explore new front-end technologies.
 I am a tech enthusiast who believes in the power of the web to transform businesses and improve lives. With a keen eye for detail and a knack for problem-solving, I strive to create visually appealing and intuitive interfaces that enhance user interactions.
 
@@ -24,7 +28,6 @@ As a front end developer, I am dedicated to staying up-to-date with the latest t
 ----
 ### :fire: My Stats :
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rithika2152)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?rithika2152&layout=compact&theme=vision-friendly-dark)](https://github.com/rithika2152/github-readme-stats)
   
   
 
