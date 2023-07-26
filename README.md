@@ -24,7 +24,7 @@ As a front end developer, I am dedicated to staying up-to-date with the latest t
 
 
      ### :fire: My Stats :
-     https://github-readme-streak-stats.herokuapp.com/?user=rithika2152
+     https://github-readme-streak-stats.herokuapp.com/?rithika2152
   
   
 
