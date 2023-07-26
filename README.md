@@ -11,8 +11,12 @@ I am a tech enthusiast who believes in the power of the web to transform busines
 
 As a front end developer, I am dedicated to staying up-to-date with the latest trends and best practices in web development. I enjoy collaborating with cross-functional teams to bring ideas to life and deliver high-quality projects that exceed expectations.
 
+
 ---
 
+### About me:
+ I am currently studying in my 2nd year of engineering,working on a project being developed using React....
+___
 ### :hammer_and_wrench: Languages and Tools :
 
 
