@@ -5,7 +5,7 @@ I am a tech enthusiast who believes in the power of the web to transform busines
 
 As a front end developer, I am dedicated to staying up-to-date with the latest trends and best practices in web development. I enjoy collaborating with cross-functional teams to bring ideas to life and deliver high-quality projects that exceed expectations.
 
-
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -21,11 +21,9 @@ As a front end developer, I am dedicated to staying up-to-date with the latest t
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"  title="C++" alt="C++" width="40" height="40"/>&nbsp;
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png"  title="VSCODE" alt="vscode" width="40" height="40"/>&nbsp;
    <img src="https://w7.pngwing.com/pngs/726/388/png-transparent-code-blocks-computer-icons-computer-programming-block-icon-angle-rectangle-computer-program-thumbnail.png"  title="codeblocks" alt="codeblocks" width="40" height="40"/>&nbsp;
-
-
-     ### :fire: My Stats :
-     https://github-readme-streak-stats.herokuapp.com/?rithika2152
-     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?rithika2152&theme=dark&background=000000)](https://git.io/streak-stats)
+----
+### :fire: My Stats :
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rithika2152)](https://git.io/streak-stats)
   
   
 
