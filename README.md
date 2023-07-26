@@ -8,21 +8,20 @@ As a front end developer, I am dedicated to staying up-to-date with the latest t
 
 
 ### Languages Known:
-<div id="header" align="center">
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="100"/>
-</div>
 
-<div id="header" align="center">
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1461px-CSS.3.svg.png" width="100"/>
-</div>
 
-<div id="header" align="center">
+
+
   <img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" width="100"/>
-</div>
 
-<div id="header" align="center">
+
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="100"/>
-</div>
+
 
 <!--
 **rithika2152/rithika2152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
