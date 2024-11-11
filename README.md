@@ -15,7 +15,7 @@ As a front end developer, I am dedicated to staying up-to-date with the latest t
 ---
 
 ### About me:
- I am currently studying in my 2nd year of engineering,working on a project being developed using React....
+ I am currently studying in my 4th year of engineering at Sri Venkateshwara College of Engineering.
 ___
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -32,8 +32,7 @@ ___
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png"  title="VSCODE" alt="vscode" width="40" height="40"/>&nbsp;
    <img src="https://w7.pngwing.com/pngs/726/388/png-transparent-code-blocks-computer-icons-computer-programming-block-icon-angle-rectangle-computer-program-thumbnail.png"  title="codeblocks" alt="codeblocks" width="40" height="40"/>&nbsp;
 ----
-### :fire: My Stats :
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rithika2152)](https://git.io/streak-stats)
+
 
  
   
